@@ -11,28 +11,34 @@ The Project Lifecycle Analysis Dashboard is designed to provide comprehensive in
 4. Provide a quick snapshot of overall project health through key metrics.
 
 ## Insights from the Project Lifecycle Analysis Dashboard
-Department-wise Project Count:
 
-Top Departments:
-Human Services: 516 Projects
-Council: 257 Projects
-Human Resources: 209 Projects
-Projects Managed per Team Members:
+**Department-wise Project Count**:
 
-Top Contributors:
-Lillian Allred: 814 Projects
-Kari Moore: 489 Projects
-Erin Babbo: 270 Projects
-Department Performance (Project Count & Duration):
+**Top Departments:**
+1. **Human Services**: 516 Projects
+2. **Council**: 257 Projects
+3. **Human Resources**: 209 Projects
+   
+**Projects Managed per Team Members:**
 
-The top three departments (same as project count) have shown consistency in project management effectiveness.
-Request Type vs. Project Duration (Donut Chart):
+**Top Contributors:**
+1. **Lillian Allred**: 814 Projects
+2. **Kari Moore**: 489 Projects
+3. **Erin Babbo**: 270 Projects
+   
+**Department Performance (Project Count & Duration):**
+**The top three departments (same as project count) have shown consistency in project management effectiveness.**
 
-Top Request Types:
-Employee Communication: 492 Projects (22.78%)
-New Releases: 268 Projects (12.41%)
-Website: 223 Projects (10.32%)
-Overall Metrics:
+**Request Type vs. Project Duration**:
 
-Average Project Duration: 72 Days
-Total Projects: 2,160 Projects
+**Top Request Types:**
+1. **Employee Communication**: 492 Projects (22.78%)
+2. **New Releases**: 268 Projects (12.41%)
+3. **Website**: 223 Projects (10.32%)
+   
+**Overall Metrics:**
+
+**Average Project Duration**: 72 Days
+**Total Projects**: 2,160 Projects
+
+
